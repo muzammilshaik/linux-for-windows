@@ -16,7 +16,7 @@
 - [Links](#links)
 
 ## Description
-linux-for windows is a linnux practise tool whhich will be used to run the linux environment in a widows operating system with out installing any type of virtual meachines. it comes with the preloaded raspbian os installed in it because many raspbian operating system need only a few hard ware requiremets which will be able to run on any windows platform 
+linux-for-windows is a linux practise tool which will be used to run the linux environment in a windows operating system with out installing any type of virtual meachines. it comes with the preloaded raspbian os installed in it because raspbian operating system need only a few hard ware requiremets which will be able to run on any windows platform and it is compatable old computers and laptop's t start practise with linux distrubations
 
 ## installation
 installation of this is very easy 
